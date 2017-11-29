@@ -18,11 +18,9 @@ import java.util.Map;
     
     
 
-public class JavaApplication653 {
+public class StaticBlock1 {
 
-    /**
-     * @param args the command line arguments
-     */
+   
         public static Map<Integer,Print> map = new HashMap<>();
      
     static{
